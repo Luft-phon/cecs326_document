@@ -1,0 +1,76 @@
+
+========================================
+FCFS
+========================================
+
+Gantt Chart:
+| IDLE | P1 | IDLE | P2 | P3 |
+0      2    5      7    9   13
+
+Process   Arrival   Burst     Priority  Waiting     Turnaround    Response  
+----------------------------------------------------------------------------
+P1        2         3         2         0           3             0         
+P2        7         2         1         0           2             0         
+P3        7         4         3         2           6             2         
+
+Average Waiting Time: 0.67
+Average Turnaround Time: 3.67
+Average Response Time: 0.67
+CPU Utilization: 69.23%
+
+========================================
+SJF (Non-preemptive)
+========================================
+
+Gantt Chart:
+| IDLE | P1 | IDLE | P2 | P3 |
+0      2    5      7    9   13
+
+Process   Arrival   Burst     Priority  Waiting     Turnaround    Response  
+----------------------------------------------------------------------------
+P1        2         3         2         0           3             0         
+P2        7         2         1         0           2             0         
+P3        7         4         3         2           6             2         
+
+Average Waiting Time: 0.67
+Average Turnaround Time: 3.67
+Average Response Time: 0.67
+CPU Utilization: 69.23%
+
+========================================
+Priority (Non-preemptive)
+========================================
+
+Gantt Chart:
+| IDLE | P1 | IDLE | P2 | P3 |
+0      2    5      7    9   13
+
+Process   Arrival   Burst     Priority  Waiting     Turnaround    Response  
+----------------------------------------------------------------------------
+P1        2         3         2         0           3             0         
+P2        7         2         1         0           2             0         
+P3        7         4         3         2           6             2         
+
+Average Waiting Time: 0.67
+Average Turnaround Time: 3.67
+Average Response Time: 0.67
+CPU Utilization: 69.23%
+
+========================================
+Round Robin
+========================================
+
+Gantt Chart:
+| IDLE | P1 | IDLE | P2 | P3 |
+0      2    5      7    9   13
+
+Process   Arrival   Burst     Priority  Waiting     Turnaround    Response  
+----------------------------------------------------------------------------
+P1        2         3         2         0           3             0         
+P2        7         2         1         0           2             0         
+P3        7         4         3         2           6             2         
+
+Average Waiting Time: 0.67
+Average Turnaround Time: 3.67
+Average Response Time: 0.67
+CPU Utilization: 69.23%

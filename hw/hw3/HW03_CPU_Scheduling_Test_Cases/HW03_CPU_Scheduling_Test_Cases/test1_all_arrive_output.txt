@@ -1,0 +1,76 @@
+
+========================================
+FCFS
+========================================
+
+Gantt Chart:
+| P1 | P2 | P3 |
+0    5    7   11
+
+Process   Arrival   Burst     Priority  Waiting     Turnaround    Response  
+----------------------------------------------------------------------------
+P1        0         5         3         0           5             0         
+P2        0         2         1         5           7             5         
+P3        0         4         2         7           11            7         
+
+Average Waiting Time: 4.00
+Average Turnaround Time: 7.67
+Average Response Time: 4.00
+CPU Utilization: 100.00%
+
+========================================
+SJF (Non-preemptive)
+========================================
+
+Gantt Chart:
+| P2 | P3 | P1 |
+0    2    6   11
+
+Process   Arrival   Burst     Priority  Waiting     Turnaround    Response  
+----------------------------------------------------------------------------
+P1        0         5         3         6           11            6         
+P2        0         2         1         0           2             0         
+P3        0         4         2         2           6             2         
+
+Average Waiting Time: 2.67
+Average Turnaround Time: 6.33
+Average Response Time: 2.67
+CPU Utilization: 100.00%
+
+========================================
+Priority (Non-preemptive)
+========================================
+
+Gantt Chart:
+| P2 | P3 | P1 |
+0    2    6   11
+
+Process   Arrival   Burst     Priority  Waiting     Turnaround    Response  
+----------------------------------------------------------------------------
+P1        0         5         3         6           11            6         
+P2        0         2         1         0           2             0         
+P3        0         4         2         2           6             2         
+
+Average Waiting Time: 2.67
+Average Turnaround Time: 6.33
+Average Response Time: 2.67
+CPU Utilization: 100.00%
+
+========================================
+Round Robin
+========================================
+
+Gantt Chart:
+| P1 | P2 | P3 | P1 | P3 | P1 |
+0    2    4    6    8   10   11
+
+Process   Arrival   Burst     Priority  Waiting     Turnaround    Response  
+----------------------------------------------------------------------------
+P1        0         5         3         6           11            0         
+P2        0         2         1         2           4             2         
+P3        0         4         2         6           10            4         
+
+Average Waiting Time: 4.67
+Average Turnaround Time: 8.33
+Average Response Time: 2.00
+CPU Utilization: 100.00%

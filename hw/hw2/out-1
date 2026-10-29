@@ -1,0 +1,150 @@
+Producer 1 started.
+Thread ID: Producer 126077804476096
+Consumer 1 started.
+Thread ID: 126077779297984
+2 started.
+Thread ID: 126077796083392
+Consumer 3 started.
+Thread ID: 126077691229888
+Producer 3 started.
+Thread ID: 126077787690688
+Consumer 2 started.
+Thread ID: 126077770905280
+Producer 3 produced Product 1 | Buffer count: 1
+Consumer 1 consumed Product 1 from Producer 3 | Buffer count: 0
+Producer 2 produced Product 1 | Buffer count: 1
+Consumer 3 consumed Product 1 from Producer 2 | Buffer count: 0
+Producer 3 produced Product 2 | Buffer count: 1
+Consumer 2 consumed Product 2 from Producer 3 | Buffer count: 0
+Producer 1 produced Product 1 | Buffer count: 1
+Consumer 1 consumed Product 1 from Producer 1 | Buffer count: 0
+Producer 3 produced Product 3 | Buffer count: 1
+Consumer 3 consumed Product 3 from Producer 3 | Buffer count: 0
+Producer 1 produced Product 2 | Buffer count: 1
+Consumer 1 consumed Product 2 from Producer 1 | Buffer count: 0
+Producer 1 produced Product 3 | Buffer count: 1
+Consumer 1 consumed Product 3 from Producer 1 | Buffer count: 0
+Producer 1 produced Product 4 | Buffer count: 1
+Producer 2 produced Product 2 | Buffer count: 2
+Consumer 2 consumed Product 4 from Producer 1 | Buffer count: 1
+Consumer 1 consumed Product 2 from Producer 2 | Buffer count: 0
+Producer 1 produced Product 5 | Buffer count: 1
+Producer 2 produced Product 3 | Buffer count: 2
+Producer 3 produced Product 4 | Buffer count: 3
+Consumer 3 consumed Product 5 from Producer 1 | Buffer count: 2
+Consumer 3 consumed Product 3 from Producer 2 | Buffer count: 1
+Consumer 3 consumed Product 4 from Producer 3 | Buffer count: 0
+Producer 1 produced Product 6 | Buffer count: 1
+Consumer 1 consumed Product 6 from Producer 1 | Buffer count: 0
+Producer 3 produced Product 5 | Buffer count: 1
+Consumer 2 consumed Product 5 from Producer 3 | Buffer count: 0
+Producer 2 produced Product 4 | Buffer count: 1
+Producer 1 produced Product 7 | Buffer count: 2
+Producer 2 produced Product 5 | Buffer count: 3
+Consumer 1 consumed Product 4 from Producer 2 | Buffer count: 2
+Producer 1 produced Product 8 | Buffer count: 3
+Producer 3 produced Product 6 | Buffer count: 4
+Consumer 2 consumed Product 7 from Producer 1 | Buffer count: 3
+Consumer 3 consumed Product 5 from Producer 2 | Buffer count: 2
+Producer 2 produced Product 6 | Buffer count: 3
+Producer 1 produced Product 9 | Buffer count: 4
+Producer 1 produced Product 10 | Buffer count: 5
+Producer 3 produced Product 7 | Buffer count: 6
+Consumer 2 consumed Product 8 from Producer 1 | Buffer count: 5
+Consumer 1 consumed Product 6 from Producer 3 | Buffer count: 4
+Consumer 1 consumed Product 6 from Producer 2 | Buffer count: 3
+Producer 1 produced Product 11 | Buffer count: 4
+Producer 1 produced Product 12 | Buffer count: 5
+Producer 3 produced Product 8 | Buffer count: 6
+Consumer 3 consumed Product 9 from Producer 1 | Buffer count: 5
+Producer 3 produced Product 9 | Buffer count: 6
+Producer 3 produced Product 10 | Buffer count: 7
+Producer 2 produced Product 7 | Buffer count: 8
+Producer 1 produced Product 13 | Buffer count: 9
+Producer 1 produced Product 14 | Buffer count: 10
+Consumer 2 consumed Product 10 from Producer 1 | Buffer count: 9
+Producer 1 produced Product 15 | Buffer count: 10
+Consumer 1 consumed Product 7 from Producer 3 | Buffer count: 9
+Producer 2 produced Product 8 | Buffer count: 10
+Consumer 3 consumed Product 11 from Producer 1 | Buffer count: 9
+Producer 2 produced Product 9 | Buffer count: 10
+Consumer 1 consumed Product 12 from Producer 1 | Buffer count: 9
+Producer 1 produced Product 16 | Buffer count: 10
+Consumer 2 consumed Product 8 from Producer 3 | Buffer count: 9
+Producer 3 produced Product 11 | Buffer count: 10
+Consumer 3 consumed Product 9 from Producer 3 | Buffer count: 9
+Producer 1 produced Product 17 | Buffer count: 10
+Consumer 1 consumed Product 10 from Producer 3 | Buffer count: 9
+Producer 3 produced Product 12 | Buffer count: 10
+Consumer 2 consumed Product 7 from Producer 2 | Buffer count: 9
+Producer 2 produced Product 10 | Buffer count: 10
+Consumer 3 consumed Product 13 from Producer 1 | Buffer count: 9
+Consumer 2 consumed Product 14 from Producer 1 | Buffer count: 8
+Producer 1 produced Product 18 | Buffer count: 9
+Consumer 2 consumed Product 15 from Producer 1 | Buffer count: 8
+Producer 2 produced Product 11 | Buffer count: 9
+Producer 1 produced Product 19 | Buffer count: 10
+Consumer 1 consumed Product 8 from Producer 2 | Buffer count: 9
+Producer 1 produced Product 20 | Buffer count: 10
+Consumer 3 consumed Product 9 from Producer 2 | Buffer count: 9
+Producer 3 produced Product 13 | Buffer count: 10
+Consumer 2 consumed Product 16 from Producer 1 | Buffer count: 9
+Producer 2 produced Product 12 | Buffer count: 10
+Consumer 2 consumed Product 11 from Producer 3 | Buffer count: 9
+Producer 2 produced Product 13 | Buffer count: 10
+Consumer 1 consumed Product 17 from Producer 1 | Buffer count: 9
+Consumer 2 consumed Product 12 from Producer 3 | Buffer count: 8
+Consumer 2 consumed Product 10 from Producer 2 | Buffer count: 7
+Consumer 1 consumed Product 18 from Producer 1 | Buffer count: 6
+Consumer 1 consumed Product 11 from Producer 2 | Buffer count: 5
+Consumer 3 consumed Product 19 from Producer 1 | Buffer count: 4
+Producer 3 produced Product 14 | Buffer count: 5
+Producer 3 produced Product 15 | Buffer count: 6
+Producer 3 produced Product 16 | Buffer count: 7
+Producer 2 produced Product 14 | Buffer count: 8
+Producer 2 produced Product 15 | Buffer count: 9
+Producer 2 produced Product 16 | Buffer count: 10
+Consumer 2 consumed Product 20 from Producer 1 | Buffer count: 9
+Producer 2 produced Product 17 | Buffer count: 10
+Consumer 1 consumed Product 13 from Producer 3 | Buffer count: 9
+Consumer 1 consumed Product 12 from Producer 2 | Buffer count: 8
+Consumer 3 consumed Product 13 from Producer 2 | Buffer count: 7
+Consumer 3 consumed Product 14 from Producer 3 | Buffer count: 6
+Consumer 3 consumed Product 15 from Producer 3 | Buffer count: 5
+Producer 3 produced Product 17 | Buffer count: 6
+Consumer 2 consumed Product 16 from Producer 3 | Buffer count: 5
+Producer 2 produced Product 18 | Buffer count: 6
+Consumer 1 consumed Product 14 from Producer 2 | Buffer count: 5
+Consumer 3 consumed Product 15 from Producer 2 | Buffer count: 4
+Producer 3 produced Product 18 | Buffer count: 5
+Producer 3 produced Product 19 | Buffer count: 6
+Consumer 3 consumed Product 16 from Producer 2 | Buffer count: 5
+Consumer 3 consumed Product 17 from Producer 2 | Buffer count: 4
+Consumer 3 consumed Product 17 from Producer 3 | Buffer count: 3
+Consumer 2 consumed Product 18 from Producer 2 | Buffer count: 2
+Consumer 3 consumed Product 18 from Producer 3 | Buffer count: 1
+Producer 2 produced Product 19 | Buffer count: 2
+Consumer 1 consumed Product 19 from Producer 3 | Buffer count: 1
+Producer 3 produced Product 20 | Buffer count: 2
+Consumer 3 consumed Product 19 from Producer 2 | Buffer count: 1
+Consumer 3 consumed Product 20 from Producer 3 | Buffer count: 0
+Producer 2 produced Product 20 | Buffer count: 1
+Consumer 3 consumed Product 20 from Producer 2 | Buffer count: 0
+
+============================
+Execution Summary
+============================
+
+Products Produced : 60
+Products Consumed : 60
+
+Producer 1 : 20
+Producer 2 : 20
+Producer 3 : 20
+
+Consumer 1 : 20
+Consumer 2 : 17
+Consumer 3 : 23
+
+Buffer Empty
+Program completed successfully.
